@@ -1,0 +1,11 @@
+# Scraper output (before moving to site/)
+assets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

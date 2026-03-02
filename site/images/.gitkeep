@@ -1,0 +1,2 @@
+This directory contains all images migrated from the Wix site.
+Run the scrape-assets.sh script to populate this folder.

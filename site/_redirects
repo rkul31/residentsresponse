@@ -1,0 +1,8 @@
+# Redirect old Wix URLs to new paths
+/my-blog  /media.html  301
+/my-blog/  /media.html  301
+/fire-safety  /fire-safety.html  301
+/fire-safety/  /fire-safety.html  301
+/about  /about.html  301
+/about/  /about.html  301
+/post/letter-of-questions-to-barnet-council-regarding-the-re-cladding-of-homes  /letter.html  301
